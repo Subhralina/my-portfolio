@@ -1,0 +1,155 @@
+h1{
+  text-align: center;
+  font-family: 'Pangolin', cursive;
+
+}
+h2{
+    color: #3d84a8;
+    font-family: 'Pangolin', cursive;
+
+}
+h4{
+  color: #3d84a8;
+  font-family: 'Pangolin', cursive;
+
+}
+
+p{
+  color: #3d84a8;
+  font-family: 'Pangolin', cursive;
+
+}
+
+img{
+  color: #40514e;
+}
+
+.profile-des{
+   display: inline-block;
+  width: 65%;
+  padding-bottom: 50px;
+}
+
+.profile{
+  font-family: 'Pangolin', cursive;
+
+}
+
+
+/* a{
+  padding: 50px;
+} */
+
+.heading-text{
+  color: #11999e;
+}
+
+.heading-description{
+  color: #11999e;
+  text-align: center;
+}
+
+hr{
+  height: 1px;
+  width: 80%;
+  color: #11999e;
+  border-style:inset;
+  background-color: #11999e;
+}
+
+.outer-div
+{
+     padding: 20px 50px;
+
+     text-align: center;
+     background-color: #e4f9f5;
+}
+
+.inner-div
+{
+     display: inline-block;
+     padding: 80px;
+}
+
+.intro{
+  font-size: 3rem;
+  width: 70%;
+  display: inline-block;
+}
+
+.creation{
+  color: #3d84a8;
+}
+
+.middle-container{
+  padding: 30px;
+  text-align: center;
+  background-color: #f9f7f7;
+}
+
+.middle-inner{
+  display: inline-block;
+  padding: 50px;
+}
+
+.website-row {
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.image1 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.image2 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.image3 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.image4 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.image5 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.image6 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-conatiner{
+  padding: 30px;
+  text-align: center;
+  background-color: #e4f9f5;
+}
+
+.contact-icon{
+  display: inline-block;
+  padding-top: 50px;
+}
+
+.footer{
+  display: inline-block;
+  padding: 50px;
+}
+
+.copyright-text{
+  padding-top: 50px;
+}
